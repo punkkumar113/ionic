@@ -9,6 +9,7 @@ This is purely a demo of Ionic with TypeScript. It is still in development.
 
 ## Table of Contents
  - [Getting Started](#getting-started)
+ - [GitHub Copilot Setup](#github-copilot-setup)
  - [Contributing](#contributing)
  - [Use Cases](#use-cases)
  - [App Preview](#app-preview)
@@ -25,6 +26,11 @@ This is purely a demo of Ionic with TypeScript. It is still in development.
 * Profit
 
 **Note:** Is your build slow? Update `npm` to 3.x: `npm install -g npm`.
+
+
+## GitHub Copilot Setup
+
+Want to use GitHub Copilot to enhance your development experience? Check out our [GitHub Copilot Setup Guide](.github/GITHUB_COPILOT_SETUP.md) for step-by-step instructions on how to install and login to GitHub Copilot in VS Code.
 
 
 ## Contributing
